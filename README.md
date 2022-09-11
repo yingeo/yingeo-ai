@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://www.yingeo.com"><img src="https://doc.yingeo.com/wiki/uploads/yingeopos/images/m_4905888856a13754ebaafa3ff42704fe_r.png" width="30%"></a>
+	<a href="https://www.yingeo.com"><img src="./images/logo.png" width="30%"></a>
 </p>
 <p align="center">
 	<strong>银歌AI智能识别系统 -计算机视觉与人工智能技术，深度学习AI算法，赋能产业全新的智能化变革</strong>
@@ -7,6 +7,7 @@
 <p align="center">
 	👉 <a href="https://www.yingeo.com">https://www.yingeo.com</a> 👈
 </p>
+
 
 
 -------------------------------------------------------------------------------
@@ -99,4 +100,4 @@
 ***
 微信扫描下方二维码，关注官方公众号：银歌收银，获取更多精彩内容。
 
-![银歌收银公众号](https://doc.yingeo.com/wiki/uploads/yingeopos/images/m_84fa9e20c00fe6ca4564572e545cc6e3_r.png "银歌收银公众号")
+![银歌收银公众号](./images/wx.png "银歌收银公众号")
